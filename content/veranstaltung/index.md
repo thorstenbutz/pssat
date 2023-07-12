@@ -9,7 +9,6 @@ images:
 ### Kostenfreie Anmeldung
 
 Wir bitten um kostenfreie Anmeldung auf **Meetup**:
-
 [https://www.meetup.com/psugh-hannover/events/291224383/](https://www.meetup.com/psugh-hannover/events/291224383/)
 
 ### Powershell, Getränke, Grillen

@@ -1,5 +1,5 @@
-#baseurl = "http://pssat.de"
-baseurl = "/thorstenbutz.github.io/pssat/"
+baseurl = "http://pssat.de"
+#baseurl = "/thorstenbutz.github.io/pssat/"
 title = "Samstag, 16.09.2023"
 theme = "hugo-coder"
 languagecode = "de"
@@ -8,7 +8,7 @@ defaultContentLanguage = "de"
 paginate = 10
 enableEmoji = true
 publishDir = "docs"
-canonifyurls = true
+# canonifyurls = true
 
 [markup.highlight]
 noClasses = false
