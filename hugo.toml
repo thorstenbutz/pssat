@@ -8,6 +8,7 @@ defaultContentLanguage = "de"
 paginate = 10
 enableEmoji = true
 publishDir = "docs"
+canonifyurls = true
 
 [markup.highlight]
 noClasses = false
