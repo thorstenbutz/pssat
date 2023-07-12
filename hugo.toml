@@ -76,11 +76,11 @@ weight = 4
 url = "https://psugh.slack.com/"
 
 
-#[[params.social]]
-#name = "LinkedIn"
-#icon = "fa fa-2x fa-linkedin"
-#weight = 4
-#url = ""
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/events/powershellsaturdayhannover7084891797994262530/comments/"
 
 #[[params.social]]
 #name = "RSS"
