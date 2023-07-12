@@ -1,5 +1,5 @@
 ---
-title: "Anmeldung"
+title: "Veranstaltung"
 date: 2023-07-11T15:00:25+02:00
 draft: false
 comments: false
@@ -9,6 +9,7 @@ images:
 ### Kostenfreie Anmeldung
 
 Wir bitten um kostenfreie Anmeldung auf **Meetup**:
+
 [https://www.meetup.com/psugh-hannover/events/291224383/](https://www.meetup.com/psugh-hannover/events/291224383/)
 
 ### Powershell, Getränke, Grillen
