@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/de-DE/psugh-hannover/events/2912243
+ 83/ical/Powershell+Saturday+Hannover+.ics
+X-WR-CALNAME:Events - Powershell Saturday Hannover .ics
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230712T131232Z
+DTSTART;TZID=Europe/Berlin:20230916T100000
+DTEND;TZID=Europe/Berlin:20230916T180000
+STATUS:CONFIRMED
+SUMMARY:Powershell Saturday Hannover 
+DESCRIPTION:Psugh Hannover\nSaturday\, September 16 at 10:00 AM\n\nEs ist
+  jetzt offiziell - es wird 2023 wieder einen Powershell Saturday in Hann
+ over geben. Und es gibt auch was zu feiern\, denn die Powershell Usergro
+ u...\n\nhttps://www.meetup.com/psugh-hannover/events/291224383/
+CLASS:PUBLIC
+CREATED:20230127T100707Z
+GEO:52.40;9.72
+URL:https://www.meetup.com/psugh-hannover/events/291224383/
+LAST-MODIFIED:20230711T215538Z
+UID:event_291224383@meetup.com
+END:VEVENT
+END:VCALENDAR
