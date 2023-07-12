@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pssat.de/veranstaltung/</loc>
+    <loc>/thorstenbutz.github.io/pssat/veranstaltung/</loc>
     <lastmod>2023-07-11T15:00:25+02:00</lastmod>
   </url><url>
-    <loc>http://pssat.de/impressum/</loc>
+    <loc>/thorstenbutz.github.io/pssat/impressum/</loc>
     <lastmod>2023-07-11T15:00:25+02:00</lastmod>
   </url><url>
-    <loc>http://pssat.de/session/powershellhero/</loc>
+    <loc>/thorstenbutz.github.io/pssat/session/powershellhero/</loc>
     <lastmod>2023-07-10T16:33:09+02:00</lastmod>
   </url><url>
-    <loc>http://pssat.de/</loc>
+    <loc>/thorstenbutz.github.io/pssat/</loc>
     <lastmod>2023-07-10T16:33:09+02:00</lastmod>
   </url><url>
-    <loc>http://pssat.de/session/</loc>
+    <loc>/thorstenbutz.github.io/pssat/session/</loc>
     <lastmod>2023-07-10T16:33:09+02:00</lastmod>
   </url><url>
-    <loc>http://pssat.de/authors/</loc>
+    <loc>/thorstenbutz.github.io/pssat/authors/</loc>
   </url><url>
-    <loc>http://pssat.de/categories/</loc>
+    <loc>/thorstenbutz.github.io/pssat/categories/</loc>
   </url><url>
-    <loc>http://pssat.de/series/</loc>
+    <loc>/thorstenbutz.github.io/pssat/series/</loc>
   </url><url>
-    <loc>http://pssat.de/tags/</loc>
+    <loc>/thorstenbutz.github.io/pssat/tags/</loc>
   </url>
 </urlset>

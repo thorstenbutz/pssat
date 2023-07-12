@@ -1,5 +1,5 @@
 #baseurl = "http://pssat.de"
-baseurl = "https://thorstenbutz.github.io/pssat"
+baseurl = "/thorstenbutz.github.io/pssat"
 title = "Samstag, 16.09.2023"
 theme = "hugo-coder"
 languagecode = "de"

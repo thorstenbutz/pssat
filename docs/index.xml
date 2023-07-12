@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samstag, 16.09.2023</title>
-    <link>http://pssat.de/</link>
+    <link>/thorstenbutz.github.io/pssat/</link>
     <description>Recent content on Samstag, 16.09.2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="http://pssat.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="/thorstenbutz.github.io/pssat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anmeldung</title>
-      <link>http://pssat.de/veranstaltung/</link>
+      <link>/thorstenbutz.github.io/pssat/veranstaltung/</link>
       <pubDate>Tue, 11 Jul 2023 15:00:25 +0200</pubDate>
       
-      <guid>http://pssat.de/veranstaltung/</guid>
+      <guid>/thorstenbutz.github.io/pssat/veranstaltung/</guid>
       <description>Kostenfreie Anmeldung Link to heading Wir bitten um kostenfreie Anmeldung auf Meetup:
 https://www.meetup.com/psugh-hannover/events/291224383/
 Powershell, Getränke, Grillen Link to heading Der PowerShell Saturday ist die jährliche Veranstaltung der PowerShell Usergroup Hannover, bei der das gemeinsame Wiedersehen und Kennenlernen den Rahmen bildet. Neben hochklassigen Vorträgen (in deutscher Sprache) steht das Miteinander im Vordergrund. Die Veranstaltung ist kostenfrei. Wir freuen uns über Eure Anregungen, Verbesserungsvorschläge und Mithilfe.
@@ -20,23 +20,23 @@ Veranstaltungsort Link to heading Die Veranstaltung findet in den Räumen der Ne
     </item>
     
     <item>
-      <title>Impressum</title>
-      <link>http://pssat.de/impressum/</link>
+      <title>Impressum &amp; Datenschutzerklärung</title>
+      <link>/thorstenbutz.github.io/pssat/impressum/</link>
       <pubDate>Tue, 11 Jul 2023 15:00:25 +0200</pubDate>
       
-      <guid>http://pssat.de/impressum/</guid>
-      <description>Impressum &amp;amp; Datenschutzerklärung Link to heading Verantwortlich im Sinne der Datenschutz-Grundverordnung (EU-DSGVO) und sonstiger datenschutzrechtlicher Bestimmungen ist:
-PowerShell Usergroup Hannover Freundallee 13a 30173 Hannover email: info@psugh.de
-Hinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Die Inhalte dieser Webseite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.</description>
+      <guid>/thorstenbutz.github.io/pssat/impressum/</guid>
+      <description>Verantwortlich im Sinne der Datenschutz-Grundverordnung (EU-DSGVO) und sonstiger datenschutzrechtlicher Bestimmungen ist:
+PowerShell Usergroup Hannover Freundallee 13a 30173 Hannover info@psugh.de Hinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Die Inhalte dieser Webseite wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.</description>
     </item>
     
     <item>
-      <title>Helloworld</title>
-      <link>http://pssat.de/session/powershellhero/</link>
+      <title>Getting started with PowerShell - PowerShell Hero</title>
+      <link>/thorstenbutz.github.io/pssat/session/powershellhero/</link>
       <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
       
-      <guid>http://pssat.de/session/powershellhero/</guid>
-      <description>Just a weitere hugo site Link to heading 2 Link to heading Hello World</description>
+      <guid>/thorstenbutz.github.io/pssat/session/powershellhero/</guid>
+      <description>Getting started with PowerShell Link to heading PowerShell Hero Link to heading twitter.com/PowerShellHero
+In dieser Rubrik finden sich rechtzeitig vor der Veranstaltung Informationen zu Vorträgen und Sprechern.</description>
     </item>
     
   </channel>
