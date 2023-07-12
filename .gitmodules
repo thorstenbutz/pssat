@@ -1,0 +1,12 @@
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/bootstrap-bp-hugo-startpage"]
+	path = themes/bootstrap-bp-hugo-startpage
+	url = https://github.com/spech66/bootstrap-bp-hugo-startpage.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
