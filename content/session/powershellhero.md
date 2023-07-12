@@ -10,7 +10,3 @@ In dieser Rubrik finden sich rechtzeitig vor der Veranstaltung Informationen zu 
 
 ![](/images/powershellhero.jpg)
 
-
-
-
-
