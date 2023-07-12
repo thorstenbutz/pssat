@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on Samstag, 16.09.2023</title>
+    <link>http://pssat.de/session/</link>
+    <description>Recent content in Sessions on Samstag, 16.09.2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://pssat.de/session/powershellhero/</link>
+      <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/powershellhero/</guid>
+      <description>Just a weitere hugo site Link to heading 2 Link to heading Hello World</description>
+    </item>
+    
+  </channel>
+</rss>

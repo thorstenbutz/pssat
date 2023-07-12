@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://pssat.de/veranstaltung/</loc>
+    <lastmod>2023-07-11T15:00:25+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/impressum/</loc>
+    <lastmod>2023-07-11T15:00:25+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/session/powershellhero/</loc>
+    <lastmod>2023-07-10T16:33:09+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/</loc>
+    <lastmod>2023-07-10T16:33:09+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/session/</loc>
+    <lastmod>2023-07-10T16:33:09+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/authors/</loc>
+  </url><url>
+    <loc>http://pssat.de/categories/</loc>
+  </url><url>
+    <loc>http://pssat.de/series/</loc>
+  </url><url>
+    <loc>http://pssat.de/tags/</loc>
+  </url>
+</urlset>

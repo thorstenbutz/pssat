@@ -1,0 +1,11 @@
+{{ if and (isset .Site.Params "logourl") (not (isset .Site.Params "gravatar")) }}
+  {{ with .Site.Params.avatarURL }}
+    <a href="https://www.meetup.com/psugh-hannover/events/291224383/">Direkt zur Anmeldung</a>
+    <br />
+    <br />
+    <div><img src="{{ . | relURL }}" alt="logo"></div>
+  {{ end }}
+{{ end }}
+{{ with .Site.Params.gravatar }}
+  <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
+{{ end }}

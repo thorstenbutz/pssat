@@ -1,0 +1,108 @@
+#baseurl = "http://pssat.de"
+baseurl = "https://thorstenbutz.github.io/pssat"
+title = "Samstag, 16.09.2023"
+theme = "hugo-coder"
+languagecode = "de"
+languageCode = "de"
+defaultContentLanguage = "de"
+paginate = 10
+enableEmoji = true
+publishDir = "docs"
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "PowerShell Saturday Hannover"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "PowerShell Saturday Hannover"
+keywords = "powershell, Hannover"
+info = ["Netz-Weise, Freundallee 13a, 30173 Hannover"] # "Freundallee 13a 30173 Hannover"
+avatarURL = "images/getpssatdata.jpg"
+logoURL = "images/getpssatdata.jpg"
+#gravatar = "info@psugh.de"
+dateFormat = "January 2, 2006"
+since = 2023
+
+# Git Commit in Footer, uncomment the line below to enable it
+# commit = "https://github.com/luizdepra/hugo-coder/tree/"
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/PSUGH/PowerShell/" 
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/psughannover/"
+
+[[params.social]]
+name = "Slack"
+icon = "fa fa-2x fa-slack"
+weight = 4
+url = "https://psugh.slack.com/"
+
+
+#[[params.social]]
+#name = "LinkedIn"
+#icon = "fa fa-2x fa-linkedin"
+#weight = 4
+#url = ""
+
+#[[params.social]]
+#name = "RSS"
+#icon = "fa fa-2x fa-rss"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
+
+[languages.de]
+languageName = ":de:"
+
+[[languages.de.menu.main]]
+name = "Vorträge"
+weight = 1
+url = "session/"
+
+[[languages.de.menu.main]]
+name = "Veranstaltung"
+weight = 2
+url = "veranstaltung/"
+
+[[languages.de.menu.main]]
+name = "Impressum"
+weight = 3
+url = "impressum/"
