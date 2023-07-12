@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sessions on Samstag, 16.09.2023</title>
-    <link>/thorstenbutz.github.io/pssat/session/</link>
+    <link>http://pssat.de/session/</link>
     <description>Recent content in Sessions on Samstag, 16.09.2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="/thorstenbutz.github.io/pssat/session/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with PowerShell - PowerShell Hero</title>
-      <link>/thorstenbutz.github.io/pssat/session/powershellhero/</link>
+      <link>http://pssat.de/session/powershellhero/</link>
       <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
       
-      <guid>/thorstenbutz.github.io/pssat/session/powershellhero/</guid>
+      <guid>http://pssat.de/session/powershellhero/</guid>
       <description>Getting started with PowerShell Link to heading PowerShell Hero Link to heading twitter.com/PowerShellHero
 In dieser Rubrik finden sich rechtzeitig vor der Veranstaltung Informationen zu Vorträgen und Sprechern.</description>
     </item>
