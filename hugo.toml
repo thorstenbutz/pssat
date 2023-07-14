@@ -66,15 +66,14 @@ url = "https://github.com/PSUGH/PowerShell/"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
+weight = 2
 url = "https://twitter.com/psughannover/"
 
 [[params.social]]
-name = "Slack"
-icon = "fa fa-2x fa-slack"
-weight = 4
-url = "https://psugh.slack.com/"
-
+name = "Discord"
+icon = "fa fa-2x fa-discord"
+weight = 3
+url = "https://discord.gg/eZCfJtBHqk"
 
 [[params.social]]
 name = "LinkedIn"
