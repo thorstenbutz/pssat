@@ -39,7 +39,9 @@ Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor 
 
 ### Sponsoren
 
-Wir bedanken uns bei den Mitgliedern der PoweShell Usergroup Hannover, die die Veranstaltung ehrenamtlich organisieren, und den Sponsoren [Netz-Weise (IT-Training und Beratung)](https://www.netz-weise-it.training) und [Beeotec](http://www.beeotec.de). 
+Wir bedanken uns bei den Mitgliedern der PoweShell Usergroup Hannover, die die Veranstaltung ehrenamtlich organisieren, und den Sponsoren [Netz-Weise (IT-Training und Beratung)](https://www.netz-weise-it.training) und [['bee:] o-Tec](http://www.beeotec.de). 
+
+
 
 
 
