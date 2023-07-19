@@ -3,8 +3,7 @@ title: "Arbeiten mit Active Directory jenseits von Get-ADUser -Filter * - Evgeni
 date: 2023-07-10T16:33:09+02:00
 draft: false
 ---
-
-<img src="/images/400x400evgenijsmirnov.png" />
+![](/images/400x400evgenijsmirnovt.png)
 
 ## about_Session
 
