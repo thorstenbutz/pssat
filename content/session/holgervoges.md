@@ -4,11 +4,11 @@ date: 2023-07-10T16:33:09+02:00
 draft: false
 ---
 
-[twitter.com/HolgerVoges](https://twitter.com/PowerShellHero)
+
 
 ![](/images/400x400holgervogespabst.png)
 
-
+## about_Session
 
 "Himmlischer Vater, wir kommen heute vor Dich mit Demut und Hoffnung. Wir bringen Dir einen speziellen Wunsch, den unserer Liebe und Wertschätzung für die Technologie der PowerShell. Wir danken Dir für die Inspiration und Weisheit, die Du den Entwicklern gegeben hast, um dieses wertvolle Werkzeug zu schaffen, das viele Prozesse erleichtert und verbessert hat.
 
@@ -18,7 +18,11 @@ Gib uns auch die Weisheit, PowerShell richtig und ethisch einzusetzen, um den Nu
 
 Wir vertrauen darauf, dass Du unsere Gebete hörst und unser Bestreben nach Fortschritt und Wachstum unterstützt. In Deinem Namen beten wir. Amen."
 
+Diese Fürbitte wurde mit Hilfe von **OpenAI's ChatGPT** erstellt. 
 
+Das Foto wurde mit Hilfe von **Midjourney** generiert.
 
-Diese Fürbitte wurde mit Hilfe von **OpenAIs ChatGPT** erstellt. 
+## about_Speaker
+
+[twitter.com/HolgerVoges](https://twitter.com/HolgerVoges)
 
