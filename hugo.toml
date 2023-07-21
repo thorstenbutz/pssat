@@ -103,6 +103,11 @@ weight = 2
 url = "veranstaltung/"
 
 [[languages.de.menu.main]]
-name = "Impressum"
+name = "Bilderbuch"
 weight = 3
+url = "bilderbuch/"
+
+[[languages.de.menu.main]]
+name = "Impressum"
+weight = 4
 url = "impressum/"
