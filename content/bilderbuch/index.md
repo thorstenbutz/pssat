@@ -6,6 +6,8 @@ draft: false
 
 ### Powershell Saturday 2018
 
+![](/images/pssat2018/2018-10-01PSSatHannoverSpeakermini.jpg)
+
 ![](/images/pssat2018/img_5548mini.jpg) ![](/images/pssat2018/img_5551mini.jpg)  
 
 ![](/images/pssat2018/img_5553mini.jpg) ![](/images/pssat2018/img_5555mini.jpg)
