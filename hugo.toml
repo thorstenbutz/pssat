@@ -57,6 +57,10 @@ series = "series"
 tag = "tags"
 author = "authors"
 
+[Bilderbuch]
+one = "Bilderbuch"
+other = "Bilderbücher"
+
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"

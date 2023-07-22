@@ -1,10 +1,8 @@
 ---
-title: "Bilderbuch"
-date: 2023-07-21T15:00:25+02:00
+title: "Powershell Saturday 2018"
+date: 2018-09-29T10:00:00+02:00
 draft: false
 ---
-
-### Powershell Saturday, 29.09.2018
 
 ![](/images/pssat2018/2018-10-01PSSatHannoverSpeakermini.jpg)
 
