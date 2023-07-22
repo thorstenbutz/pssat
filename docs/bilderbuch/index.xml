@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilderbücher on Samstag, 16.09.2023</title>
+    <link>http://pssat.de/bilderbuch/</link>
+    <description>Recent content in Bilderbücher on Samstag, 16.09.2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 29 Sep 2018 10:00:00 +0200</lastBuildDate><atom:link href="http://pssat.de/bilderbuch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Powershell Saturday 2018</title>
+      <link>http://pssat.de/bilderbuch/pssat2018/</link>
+      <pubDate>Sat, 29 Sep 2018 10:00:00 +0200</pubDate>
+      
+      <guid>http://pssat.de/bilderbuch/pssat2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powershell Saturday 2017</title>
+      <link>http://pssat.de/bilderbuch/pssat2017/</link>
+      <pubDate>Sat, 26 Aug 2017 10:00:00 +0200</pubDate>
+      
+      <guid>http://pssat.de/bilderbuch/pssat2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -51,13 +51,21 @@ Wir bitten Dich, Deinen Segen über PowerShell zu verleihen. Möge seine Lebensd
     </item>
     
     <item>
-      <title>Getting started with PowerShell - PowerShell Hero</title>
-      <link>http://pssat.de/session/powershellhero/</link>
-      <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
+      <title>Powershell Saturday 2018</title>
+      <link>http://pssat.de/bilderbuch/pssat2018/</link>
+      <pubDate>Sat, 29 Sep 2018 10:00:00 +0200</pubDate>
       
-      <guid>http://pssat.de/session/powershellhero/</guid>
-      <description>In dieser Rubrik finden sich rechtzeitig vor der Veranstaltung Informationen zu Vorträgen und Sprechern.
-about_Speaker Link to heading twitter.com/PowerShellHero</description>
+      <guid>http://pssat.de/bilderbuch/pssat2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powershell Saturday 2017</title>
+      <link>http://pssat.de/bilderbuch/pssat2017/</link>
+      <pubDate>Sat, 26 Aug 2017 10:00:00 +0200</pubDate>
+      
+      <guid>http://pssat.de/bilderbuch/pssat2017/</guid>
+      <description></description>
     </item>
     
   </channel>
