@@ -3,7 +3,6 @@ title: "Veranstaltung"
 date: 2023-07-11T15:00:25+02:00
 draft: false
 comments: false
-images:
 ---
 
 ### Kostenfreie Anmeldung
