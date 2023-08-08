@@ -4,15 +4,16 @@ date: 2023-07-10T16:33:09+02:00
 draft: false
 ---
 
-
-![](/images/400x400evgenijsmirnov.png)
-
-## about_Session
+### about_Session
 
 In diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen. 
+### about_Speaker
 
-## about_Speaker
+{{< figure class="alignright" style="padding:20rem" src="/images/400x400evgenijsmirnov.png" alt="Evgenij Smirnov">}}
 
-[twitter.com/cj_berlin](https://twitter.com/cj_berlin)
+Evgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien. Die Beschäftigung mit Active Directory und Exchange führte zu PowerShell, und diese Technologie ist aus Evgenijs Blogbeiträgen, Artikeln und Konferenz-Vorträgen seit vielen Jahren nicht mehr wegzudenken.
+Evgenij ist aktiv im TechNet-Forum sowie in den Offline-Communities: Er ist Group Lead für drei offizielle Microsoft User Groups in Berlin. Er ist Microsoft MVP für Cloud and Datacenter Management seit 2020.
 
-https://sessionize.com/evgenij-smirnov/
+[https://twitter.com/cj_berlin](https://twitter.com/cj_berlin)
+
+[https://sessionize.com/evgenij-smirnov/](https://sessionize.com/evgenij-smirnov/)

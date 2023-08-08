@@ -6,7 +6,38 @@
     <description>Recent content in Vorträge on Samstag, 16.09.2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 10 Jul 2023 16:33:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 16:34:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerShell Performance &amp; Technique Tweaks - Christian Ritter</title>
+      <link>http://pssat.de/session/chiristianritter/</link>
+      <pubDate>Tue, 08 Aug 2023 16:34:09 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/chiristianritter/</guid>
+      <description>about_Session Link to heading Diese Session zeigt Leistungsoptimierungen, Tipps und Tricks um das volle Potential der PowerShell auszuschöpfen.
+about_Speaker Link to heading PowerShell lover, Automation fan, Blog-Autor, Nerdy by nature. Gründer der PSUGFFM.
+https://twitter.com/blackboxcoder
+https://sessionize.com/Hcritter/</description>
+    </item>
+    
+    <item>
+      <title>Batch-Fire against the Microsoft Graph API using PowerShell - Ahmed Uzejnović</title>
+      <link>http://pssat.de/session/ahmeduzejnovc/</link>
+      <pubDate>Tue, 08 Aug 2023 16:33:09 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/ahmeduzejnovc/</guid>
+      <description>about_Session Link to heading In dieser Sitzung möchte ich demonstrieren, wie wir die Graph-API verwenden können, um HTTP-Anfragen so zu gruppieren, dass wir sie mit einem einzigen Aufruf an die API schicken. Wir sehen uns die Limits der Graph API an und testen, was passiert, wenn wir sie erreichen. Das Hauptaugenmerk liegt hier auf der Zeit- und damit Geldersparnis.
+about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber warum eigentlich?</description>
+    </item>
+    
+    <item>
+      <title>Vom Anwender zum Entwickler - Wie kann ich bei Open Source Projekten mitarbeiten? - Andreas Jordan</title>
+      <link>http://pssat.de/session/andreasjordan/</link>
+      <pubDate>Fri, 28 Jul 2023 10:00:00 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/andreasjordan/</guid>
+      <description>about_Session Link to heading Vor über drei Jahren bin ich diesen Schritt selbst gegangen: Ich habe das PowerShell Modul dbatools nicht nur genutzt, sondern begonnen, es aktiv mitzugestalten. Ganz vorsichtig habe ich Auffälligkeiten analysiert, einen ersten Fehler eingestellt und dann auch selbst die Lösung dazu entwickelt und bereitgestellt. Mit diesem Vortrag möchte ich meine Erfahrungen weitergeben und auch andere Nutzer von anderen Powershell Modulen ermutigen, aktiv an Open Source Projekten mitzuwirken.</description>
+    </item>
+    
     <item>
       <title>Arbeiten mit Active Directory jenseits von Get-ADUser -Filter * - Evgenij Smirnov</title>
       <link>http://pssat.de/session/evgenijsmirnov/</link>
@@ -14,8 +45,7 @@
       
       <guid>http://pssat.de/session/evgenijsmirnov/</guid>
       <description>about_Session Link to heading In diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen.
-about_Speaker Link to heading twitter.com/cj_berlin
-https://sessionize.com/evgenij-smirnov/</description>
+about_Speaker Link to heading Evgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien.</description>
     </item>
     
     <item>
