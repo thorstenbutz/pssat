@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://pssat.de/session/chiristianritter/</loc>
-    <lastmod>2023-08-08T16:34:09+02:00</lastmod>
+    <loc>http://pssat.de/session/christophburmeister/</loc>
+    <lastmod>2023-08-11T16:42:09+02:00</lastmod>
   </url><url>
     <loc>http://pssat.de/</loc>
-    <lastmod>2023-08-08T16:34:09+02:00</lastmod>
+    <lastmod>2023-08-11T16:42:09+02:00</lastmod>
   </url><url>
     <loc>http://pssat.de/session/</loc>
+    <lastmod>2023-08-11T16:42:09+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/session/robinbeismann/</loc>
+    <lastmod>2023-08-11T16:34:09+02:00</lastmod>
+  </url><url>
+    <loc>http://pssat.de/session/chiristianritter/</loc>
     <lastmod>2023-08-08T16:34:09+02:00</lastmod>
   </url><url>
     <loc>http://pssat.de/session/ahmeduzejnovc/</loc>

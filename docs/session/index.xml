@@ -6,7 +6,27 @@
     <description>Recent content in Vorträge on Samstag, 16.09.2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Aug 2023 16:34:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 16:42:09 +0200</lastBuildDate><atom:link href="http://pssat.de/session/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerShell Classes: Warum man sie nutzen sollte! - Christoph Burmeister</title>
+      <link>http://pssat.de/session/christophburmeister/</link>
+      <pubDate>Fri, 11 Aug 2023 16:42:09 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/christophburmeister/</guid>
+      <description>about_Session Link to heading Klassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben oft viel einfacher machen. Ich zeige Euch ein paar Beispiele und Hintergründe, warum Ihr Klassen nutzen solltet.
+about_Speaker Link to heading Christoph arbeitet als Principal Solutions Architect und ist Microsoft MVP für Cloud and Datacenter Management. Er spezialisiert auf Themen wie Azure Infrastruktur, Container-Technologies, DevOps und Identity and Access Management. Zudem ist er der Gründer und Organisator der Hamburg PowerShell User Group.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins für Software Entwicklung? Nein, auch als PowerShell Job Orchestrator! - Robin Beismann</title>
+      <link>http://pssat.de/session/robinbeismann/</link>
+      <pubDate>Fri, 11 Aug 2023 16:34:09 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/robinbeismann/</guid>
+      <description>about_Session Link to heading Auf welchem Server lief der Job nochmal? Irgendwas funktioniert hier nicht, bloß warum und wie finde ich das heraus? Wer kennt es nicht, man merkt, dass eine Automatisierung plötzlich nicht mehr funktioniert und kann sich nicht mal mehr genau dran erinnern wo und wie man sie überhaupt eingeplant hat.
+In diesem Vortrag geht es darum, Jenkins, ein Tool das ursprünglich aus der CI/CD Welt kommt, als PowerShell Job Scheduler/Orchestrator einzusetzen und Git als nützliches Werkzeug für die Versionsverwaltung von Infrastruktur Scripts lieben zu lernen.</description>
+    </item>
+    
     <item>
       <title>PowerShell Performance &amp; Technique Tweaks - Christian Ritter</title>
       <link>http://pssat.de/session/chiristianritter/</link>
@@ -20,7 +40,7 @@ https://sessionize.com/Hcritter/</description>
     </item>
     
     <item>
-      <title>Batch-Fire against the Microsoft Graph API using PowerShell - Ahmed Uzejnović</title>
+      <title>Batch-Fire gegen die Microsoft Graph API mit der PowerShell - Ahmed Uzejnović</title>
       <link>http://pssat.de/session/ahmeduzejnovc/</link>
       <pubDate>Tue, 08 Aug 2023 16:33:09 +0200</pubDate>
       
