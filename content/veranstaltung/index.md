@@ -23,6 +23,27 @@ Die Veranstaltung findet in den Räumen der [Netz-Weise](https://www.netz-weise-
 
 Netz-Weise, Freundallee 13a, 30173 Hannover
 
+### Sponsoren
+
+
+[
+    ![Logo: Scriptrunner](/images/scriptrunner/scriptrunner-logo_rgb_original-claim.svg "Scriptrunner ist deine #1 für PowerShell Automation")
+](https://www.scriptrunner.com/de/)
+
+
+**ScriptRunner ist deine #1 für PowerShell Automation**. Mit ScriptRunner erhältst du eine ganzheitliche, sichere und vollständig integrierbare Lösung, und bist innerhalb kürzester Zeit "ready to automate". Routineaufgaben im Tagesgeschäft werden ab sofort effizienter und mit konstant hoher Qualität erledigt. Administrative Aufgaben lassen sich sicher an Anwender ohne PowerShell-Kenntnisse delegieren - deine Kollegen können somit Aufgaben anstoßen, ohne erweiterte Rechte im System zu haben.
+
+Weitere Informationen unter [https://www.scriptrunner.com/de/](https://www.scriptrunner.com/de/).
+
+
+[
+    ![Logo: au2mator](/images/au2mator/au2mator.png "au2mator")
+](https://au2mator.com/)
+
+Weitere Informationen unter [https://au2mator.com](https://au2mator.com/).
+
+
+
 ### Zeitplan
 
 Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor der Veranstaltung. 
@@ -36,9 +57,10 @@ Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor 
 | Vorträge              |           |
 | Gemeinsames Grillen   | ab 17 Uhr |
 
-### Sponsoren
+### Unser Dank geht an 
 
-Wir bedanken uns bei den Mitgliedern der PoweShell Usergroup Hannover, die die Veranstaltung ehrenamtlich organisieren, und den Sponsoren [Netz-Weise (IT-Training und Beratung)](https://www.netz-weise-it.training) und [['bee:] o-Tec](http://www.beeotec.de). 
+Wir bedanken uns bei den Mitgliedern der PoweShell Usergroup Hannover, die die Veranstaltung ehrenamtlich organisieren, und den Sponsoren [Netz-Weise (IT-Training und Beratung)](https://www.netz-weise-it.training), [['bee:] o-Tec](http://www.beeotec.de), ScriptRunner und au2mator.  
+HERZLICHEN DANK !
 
 
 
