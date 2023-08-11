@@ -69,21 +69,28 @@ weight = 1
 url = "https://github.com/PSUGH/PowerShell/" 
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 2
-url = "https://twitter.com/psughannover/"
-
-[[params.social]]
 name = "Discord"
 icon = "fa fa-2x fa-discord"
-weight = 3
+weight = 2
 url = "https://discord.gg/eZCfJtBHqk"
+
+[[params.social]]
+name = "Mastodon"
+icon = "fa fa-2x fa-mastodon"
+weight = 3
+url = "https://norden.social/@psugh/"
+html_attributes = "rel=\"me\"" # rel attribute for Mastodon profile link verification
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 4
+url = "https://twitter.com/psughannover/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 5
 url = "https://www.linkedin.com/events/powershellsaturdayhannover7084891797994262530/comments/"
 
 #[[params.social]]
