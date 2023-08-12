@@ -10,9 +10,7 @@ Klassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben
 
 ### about_Speaker
 
-Christoph arbeitet als Principal Solutions Architect und ist Microsoft MVP für Cloud and Datacenter Management.
-Er spezialisiert auf Themen wie Azure Infrastruktur, Container-Technologies, DevOps und Identity and Access Management.
-Zudem ist er der Gründer und Organisator der Hamburg PowerShell User Group.
+Christoph ist Principal Solutions Architect bei Berlin Bytes. Er ist spezialisert auf Microsoft Azure, besonders die Bereiche Goverannce, IAM, Infrastruktur und Kubernetes. Er ist Microsoft MVP für Cloud and Datacenter Management und ist Mitgründer und Organisator der Hamburg PowerShell User Group.
 
 {{< figure class="alignright" style="padding:20rem" src="/images/400x400christophburmeister.jpg" alt="Christoph Burmeister">}}
 
