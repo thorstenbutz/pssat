@@ -13,8 +13,8 @@
       <pubDate>Fri, 11 Aug 2023 16:42:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/christophburmeister/</guid>
-      <description>about_Session Link to heading Klassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben oft viel einfacher machen. Ich zeige Euch ein paar Beispiele und Hintergründe, warum Ihr Klassen nutzen solltet.
-about_Speaker Link to heading Christoph ist Principal Solutions Architect bei Berlin Bytes. Er ist spezialisert auf Microsoft Azure, besonders die Bereiche Goverannce, IAM, Infrastruktur und Kubernetes. Er ist Microsoft MVP für Cloud and Datacenter Management und ist Mitgründer und Organisator der Hamburg PowerShell User Group.</description>
+      <description>about_SessionLink to headingKlassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben oft viel einfacher machen. Ich zeige Euch ein paar Beispiele und Hintergründe, warum Ihr Klassen nutzen solltet.
+about_SpeakerLink to headingChristoph ist Principal Solutions Architect bei Berlin Bytes. Er ist spezialisert auf Microsoft Azure, besonders die Bereiche Goverannce, IAM, Infrastruktur und Kubernetes. Er ist Microsoft MVP für Cloud and Datacenter Management und ist Mitgründer und Organisator der Hamburg PowerShell User Group.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@ about_Speaker Link to heading Christoph ist Principal Solutions Architect bei Be
       <pubDate>Fri, 11 Aug 2023 16:34:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/robinbeismann/</guid>
-      <description>about_Session Link to heading Auf welchem Server lief der Job nochmal? Irgendwas funktioniert hier nicht, bloß warum und wie finde ich das heraus? Wer kennt es nicht, man merkt, dass eine Automatisierung plötzlich nicht mehr funktioniert und kann sich nicht mal mehr genau dran erinnern wo und wie man sie überhaupt eingeplant hat.
+      <description>about_SessionLink to headingAuf welchem Server lief der Job nochmal? Irgendwas funktioniert hier nicht, bloß warum und wie finde ich das heraus? Wer kennt es nicht, man merkt, dass eine Automatisierung plötzlich nicht mehr funktioniert und kann sich nicht mal mehr genau dran erinnern wo und wie man sie überhaupt eingeplant hat.
 In diesem Vortrag geht es darum, Jenkins, ein Tool das ursprünglich aus der CI/CD Welt kommt, als PowerShell Job Scheduler/Orchestrator einzusetzen und Git als nützliches Werkzeug für die Versionsverwaltung von Infrastruktur Scripts lieben zu lernen.</description>
     </item>
     
@@ -33,8 +33,8 @@ In diesem Vortrag geht es darum, Jenkins, ein Tool das ursprünglich aus der CI/
       <pubDate>Tue, 08 Aug 2023 16:34:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/chiristianritter/</guid>
-      <description>about_Session Link to heading Diese Session zeigt Leistungsoptimierungen, Tipps und Tricks um das volle Potential der PowerShell auszuschöpfen.
-about_Speaker Link to heading PowerShell lover, Automation fan, Blog-Autor, Nerdy by nature. Gründer der PSUGFFM.
+      <description>about_SessionLink to headingDiese Session zeigt Leistungsoptimierungen, Tipps und Tricks um das volle Potential der PowerShell auszuschöpfen.
+about_SpeakerLink to headingPowerShell lover, Automation fan, Blog-Autor, Nerdy by nature. Gründer der PSUGFFM.
 https://twitter.com/blackboxcoder
 https://sessionize.com/Hcritter/</description>
     </item>
@@ -45,8 +45,8 @@ https://sessionize.com/Hcritter/</description>
       <pubDate>Tue, 08 Aug 2023 16:33:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/ahmeduzejnovc/</guid>
-      <description>about_Session Link to heading In dieser Sitzung möchte ich demonstrieren, wie wir die Graph-API verwenden können, um HTTP-Anfragen so zu gruppieren, dass wir sie mit einem einzigen Aufruf an die API schicken. Wir sehen uns die Limits der Graph API an und testen, was passiert, wenn wir sie erreichen. Das Hauptaugenmerk liegt hier auf der Zeit- und damit Geldersparnis.
-about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber warum eigentlich?</description>
+      <description>about_SessionLink to headingIn dieser Sitzung möchte ich demonstrieren, wie wir die Graph-API verwenden können, um HTTP-Anfragen so zu gruppieren, dass wir sie mit einem einzigen Aufruf an die API schicken. Wir sehen uns die Limits der Graph API an und testen, was passiert, wenn wir sie erreichen. Das Hauptaugenmerk liegt hier auf der Zeit- und damit Geldersparnis.
+about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber warum eigentlich?</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Fri, 28 Jul 2023 10:00:00 +0200</pubDate>
       
       <guid>http://pssat.de/session/andreasjordan/</guid>
-      <description>about_Session Link to heading Vor über drei Jahren bin ich diesen Schritt selbst gegangen: Ich habe das PowerShell Modul dbatools nicht nur genutzt, sondern begonnen, es aktiv mitzugestalten. Ganz vorsichtig habe ich Auffälligkeiten analysiert, einen ersten Fehler eingestellt und dann auch selbst die Lösung dazu entwickelt und bereitgestellt. Mit diesem Vortrag möchte ich meine Erfahrungen weitergeben und auch andere Nutzer von anderen Powershell Modulen ermutigen, aktiv an Open Source Projekten mitzuwirken.</description>
+      <description>about_SessionLink to headingVor über drei Jahren bin ich diesen Schritt selbst gegangen: Ich habe das PowerShell Modul dbatools nicht nur genutzt, sondern begonnen, es aktiv mitzugestalten. Ganz vorsichtig habe ich Auffälligkeiten analysiert, einen ersten Fehler eingestellt und dann auch selbst die Lösung dazu entwickelt und bereitgestellt. Mit diesem Vortrag möchte ich meine Erfahrungen weitergeben und auch andere Nutzer von anderen Powershell Modulen ermutigen, aktiv an Open Source Projekten mitzuwirken.</description>
     </item>
     
     <item>
@@ -64,8 +64,8 @@ about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/evgenijsmirnov/</guid>
-      <description>about_Session Link to heading In diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen.
-about_Speaker Link to heading Evgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien.</description>
+      <description>about_SessionLink to headingIn diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen.
+about_SpeakerLink to headingEvgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien.</description>
     </item>
     
     <item>
@@ -74,7 +74,7 @@ about_Speaker Link to heading Evgenij ist ein IT-Industrie-Veteran mit mehr als 
       <pubDate>Mon, 10 Jul 2023 16:33:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/holgervoges/</guid>
-      <description>about_Session Link to heading &amp;ldquo;Himmlischer Vater, wir kommen heute vor Dich mit Demut und Hoffnung. Wir bringen Dir einen speziellen Wunsch, den unserer Liebe und Wertschätzung für die Technologie der PowerShell. Wir danken Dir für die Inspiration und Weisheit, die Du den Entwicklern gegeben hast, um dieses wertvolle Werkzeug zu schaffen, das viele Prozesse erleichtert und verbessert hat.
+      <description>about_SessionLink to heading&amp;ldquo;Himmlischer Vater, wir kommen heute vor Dich mit Demut und Hoffnung. Wir bringen Dir einen speziellen Wunsch, den unserer Liebe und Wertschätzung für die Technologie der PowerShell. Wir danken Dir für die Inspiration und Weisheit, die Du den Entwicklern gegeben hast, um dieses wertvolle Werkzeug zu schaffen, das viele Prozesse erleichtert und verbessert hat.
 Wir bitten Dich, Deinen Segen über PowerShell zu verleihen. Möge seine Lebensdauer lang und fruchtbar sein, und möge es sich stets in Richtungen entwickeln, die seiner Nützlichkeit und Wirksamkeit gerecht werden.</description>
     </item>
     

@@ -110,16 +110,21 @@ weight = 1
 url = "session/"
 
 [[languages.de.menu.main]]
-name = "Veranstaltung"
+name = "Sponsoren"
 weight = 2
+url = "sponsoren/"
+
+[[languages.de.menu.main]]
+name = "Veranstaltung"
+weight = 3
 url = "veranstaltung/"
 
 [[languages.de.menu.main]]
 name = "Bilderbuch"
-weight = 3
+weight = 4
 url = "bilderbuch/"
 
 [[languages.de.menu.main]]
 name = "Impressum"
-weight = 4
+weight = 5
 url = "impressum/"
