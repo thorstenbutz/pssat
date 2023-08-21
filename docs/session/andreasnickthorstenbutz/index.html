@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <title>
+  Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse) - Andreas Nick &amp; Thorsten Butz · Samstag, 16.09.2023
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="PowerShell Saturday Hannover">
+<meta name="description" content="about_SessionLink to headingMit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &ldquo;modern apps&rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.">
+<meta name="keywords" content="powershell, Hannover">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse) - Andreas Nick &amp; Thorsten Butz"/>
+<meta name="twitter:description" content="about_SessionLink to headingMit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &ldquo;modern apps&rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen."/>
+
+<meta property="og:title" content="Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse) - Andreas Nick &amp; Thorsten Butz" />
+<meta property="og:description" content="about_SessionLink to headingMit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &ldquo;modern apps&rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://pssat.de/session/andreasnickthorstenbutz/" /><meta property="article:section" content="session" />
+<meta property="article:published_time" content="2023-08-21T00:00:12+02:00" />
+<meta property="article:modified_time" content="2023-08-21T00:00:12+02:00" />
+
+
+
+
+<link rel="canonical" href="http://pssat.de/session/andreasnickthorstenbutz/">
+
+
+<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" integrity="sha256-WtvnL8Qdz7hSIVuEaVKIk5trYG23Mji9Puk2RpVy/Jw=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+
+
+ 
+
+
+  
+  
+    
+    <link rel="stylesheet" href="/pssat.min.0c8016e1f95c54a9d6f1b7537546654065d6a3912ba191b682b60e02b07aee93.css" integrity="sha256-DIAW4flcVKnW8bdTdUZlQGXWo5EroZG2grYOArB67pM=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+<body class="preload-transitions colorscheme-light">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      Samstag, 16.09.2023
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/session/">Vorträge</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/sponsoren/">Sponsoren</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/veranstaltung/">Veranstaltung</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/bilderbuch/">Bilderbuch</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/impressum/">Impressum</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://pssat.de/session/andreasnickthorstenbutz/">
+          Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse) - Andreas Nick &amp; Thorsten Butz
+        </a>
+      </h1>
+    </header>
+
+    <h3 id="about_session">
+  about_Session
+  <a class="heading-link" href="#about_session">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Mit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &ldquo;modern apps&rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.</p>
+<p>Wir lernen mit Scott Hanselman, Keivan Beigi und Demitrius Nelon die Protagonisten eines langjährigen Feldversuchs kennen, fremde Welten zu entdecken, neue Formate und neue Plattformen zu etablieren und Wege zu beschreiten, die nie ein Admin mitgegangen ist.</p>
+<p>Andreas Nick und Thorsten Butz werfen einen launigen Insider-Blick auf Microsofts Ringen um eine Paketverwaltung und deren langen Weg vom Nano-Server (!) über Argument Completer hin zu nativen PowerShell-Cmdlets.</p>
+<h3 id="about_speaker">
+  about_Speaker
+  <a class="heading-link" href="#about_speaker">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<figure class="alignright"><img src="/images/400x400andreasnick.jpg"
+         alt="Andreas Nick"/>
+</figure>
+
+<figure class="alignright"><img src="/images/400x400thorstenbutz.jpg"
+         alt="Thorsten Butz"/>
+</figure>
+
+<p><strong>Andreas</strong></p>
+<p>Andreas Nick ist Gründer und CEO  Nick Informationstechnik GmbH (NickIT). Andreas hat das einzige deutsche Fachbuch zu Microsoft App-V 5 geschrieben und hat insbesondere im Bereich der Anwendungsbereitstellung mit Softwarevirtualisierung eine einzigartige Expertise.</p>
+<p><a href="https://www.nick-it.de"  class="external-link" target="_blank" rel="noopener">https://www.nick-it.de</a></p>
+<p><a href="https://twitter.com/NickInformation"  class="external-link" target="_blank" rel="noopener">https://twitter.com/NickInformation</a></p>
+<p><a href="https://www.linkedin.com/in/andreas-nick-2000a952/"  class="external-link" target="_blank" rel="noopener">https://www.linkedin.com/in/andreas-nick-2000a952/</a></p>
+<p><strong>Thorsten Butz</strong></p>
+<p>Thorsten Butz ist langjähriger Microsoft Certified Trainer (MCT), Consultant, Buchautor und Podcaster. Er begann seine Karriere als Netzwerkspezialist und Unix-Enthusiast beim Deutschen Provider Network. Seit Windows 2000 begleitet er intensiv Microsofts Server-Technologien. Seine ausgeprägte Leidenschaft für das Scripting führte ihn schon früh zu einem aktuellen Schwerpunkt seiner Arbeit: der Windows PowerShell
+Thorsten Butz ist Gastgeber des &ldquo;Sliding Windows&rdquo;-Podcasts (slidingwindows.de).</p>
+<p><a href="https://www.thorsten-butz.de/"  class="external-link" target="_blank" rel="noopener">https://www.thorsten-butz.de/</a></p>
+<p><a href="https://www.slidingwindows.de"  class="external-link" target="_blank" rel="noopener">https://www.slidingwindows.de</a></p>
+<p><a href="https://sessionize.com/thorstenbutz"  class="external-link" target="_blank" rel="noopener">https://sessionize.com/thorstenbutz</a></p>
+<p><a href="https://twitter.com/thorstenbutz"  class="external-link" target="_blank" rel="noopener">https://twitter.com/thorstenbutz</a></p>
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2023
+     PowerShell Saturday Hannover 
+    ·
+    
+    Gestaltet mit <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

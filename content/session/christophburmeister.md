@@ -1,6 +1,6 @@
 ---
 title: "PowerShell Classes: Warum man sie nutzen sollte! - Christoph Burmeister"
-date: 2023-08-11T16:42:09+02:00
+date: 2023-08-21T00:00:16+02:00
 draft: false
 ---
 

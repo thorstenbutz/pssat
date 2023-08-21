@@ -1,6 +1,6 @@
 ---
 title: "Batch-Fire gegen die Microsoft Graph API mit der PowerShell - Ahmed Uzejnović"
-date: 2023-08-08T16:33:09+02:00
+date: 2023-08-21T00:00:17+02:00
 draft: false
 ---
 

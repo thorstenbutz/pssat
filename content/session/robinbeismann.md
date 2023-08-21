@@ -1,15 +1,14 @@
 ---
-title: "Jenkins für Software Entwicklung? Nein, auch als PowerShell Job Orchestrator! - Robin Beismann"
-date: 2023-08-11T16:34:09+02:00
+title: "Websites oder Web APIs mit PowerShell? Ja, mit Pode(.Web)! - Robin Beismann"
+date: 2023-08-21T00:00:09+02:00
 draft: false
 ---
 
 ### about_Session
 
-Auf welchem Server lief der Job nochmal? Irgendwas funktioniert hier nicht, bloß warum und wie finde ich das heraus?
-Wer kennt es nicht, man merkt, dass eine Automatisierung plötzlich nicht mehr funktioniert und kann sich nicht mal mehr genau dran erinnern wo und wie man sie überhaupt eingeplant hat.
+Eine Funktion oder ein vorhandenes Script ausführbar machen? WPF/Windows Forms Applikationen waren früher, heute bestehen 90% der gängigen Desktop Applikationen im Backend aus Web Apps die über Frameworks wie Electron als Executables bereitgestellt werden.
 
-In diesem Vortrag geht es darum, Jenkins, ein Tool das ursprünglich aus der CI/CD Welt kommt, als PowerShell Job Scheduler/Orchestrator einzusetzen und Git als nützliches Werkzeug für die Versionsverwaltung von Infrastruktur Scripts lieben zu lernen.
+Websites oder Web APIs mit PowerShell veröffentlichen klingt absurd? Dank Pode nicht mehr. Pode stellt einen PowerShell basierten, vollwertigen Webserver bereit. Für die, die sich nicht mit HTML und Javascript auseinandersetzen möchten, gibt es obendrauf noch Pode.Web um genau dies ebenfalls mit PowerShell zu lösen.
 
 ### about_Speaker
 

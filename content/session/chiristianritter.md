@@ -1,6 +1,6 @@
 ---
 title: "PowerShell Performance & Technique Tweaks - Christian Ritter"
-date: 2023-08-08T16:34:09+02:00
+date: 2023-08-21T00:00:15+02:00
 draft: false
 ---
 
