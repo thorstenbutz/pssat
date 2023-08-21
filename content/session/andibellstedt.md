@@ -6,7 +6,8 @@ draft: false
 
 ### about_Session
 
-(In Kürze)
+Ein technischer Ausflug in den Aufbau und die Funktionsweise des MSGraph PowerShell Moduls von Friedrich Weinmann und Andi Bellstedt. In dem Vortrag stellt Andi die Struktur, den konzeptionellen Aufbau und die Funktionsweise des Modules vor. 
+Die Session vermittelt Methodiken für eine effiziente Modulentwicklung, um auch größere Module strukturiert und verwaltbar zu behalten. Weiterhin wird erklärt wie Funktionen/cmdlets effektiv und effizient erstellt werden. Unterstützung der Pipelinefunktionalität ist an dieser Stelle eine der Überlegungen, um ein Modul komfortabel in der Anwendung zu gestalten.
 
 ### about_Speaker
 
