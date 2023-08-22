@@ -12,6 +12,15 @@ Websites oder Web APIs mit PowerShell veröffentlichen klingt absurd? Dank Pode 
 
 ### about_Speaker
 
+Robin Beismann begann seine IT Karriere bereits in der Schulzeit als er auf Minijob Basis die IT Infrastruktur zweier Schulen betreute.
+
+Nach der Schule startete er mit einer Ausbildung zum Fachinformatiker durch und beschäftigt sich heute mit diversen Themen der IT Welt.
+Zehn Jahre später liegt sein Themenfokus auf Microsoft Produkten, speziell Automatisierung und Orchestrierung mit PowerShell so wie Identity Management- und Daten Management.
+
+Neben der Arbeit trifft man Robin, sofern er nicht gerade in der Weltgeschichte unterwegs ist oder einen Blogartikel verfasst, häufig auf Azure-, Powershell- und anderen Community Meetups in und um Hannover und Hamburg.
+
 {{< figure class="alignright" style="padding:20rem" src="/images/400x400robinbeismann.jpg" alt="Robin Beismann">}}
+
+[https://sessionize.com/robin-beismann](https://sessionize.com/robin-beismann)
 
 [https://www.linkedin.com/in/robin-beismann-424083143/](https://www.linkedin.com/in/robin-beismann-424083143/)
