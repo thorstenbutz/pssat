@@ -22,8 +22,9 @@ info = ["Netz-Weise, Freundallee 13a, 30173 Hannover"] # "Freundallee 13a 30173 
 avatarURL = "images/getpssatdata.jpg"
 logoURL = "images/getpssatdata.jpg"
 #gravatar = "info@psugh.de"
-dateFormat = "2006-01-02"
+#dateFormat = "2006-01-02"
 #dateFormat = "January 2, 2006"
+dateFormat = "–" # Simple list view without timestamps
 since = 2023
 
 # Git Commit in Footer, uncomment the line below to enable it
