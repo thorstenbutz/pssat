@@ -24,7 +24,7 @@ logoURL = "images/getpssatdata.jpg"
 #gravatar = "info@psugh.de"
 #dateFormat = "2006-01-02"
 #dateFormat = "January 2, 2006"
-dateFormat = "–" # Simple list view without timestamps
+dateFormat = " " # Simple list view without timestamps
 since = 2023
 
 # Git Commit in Footer, uncomment the line below to enable it

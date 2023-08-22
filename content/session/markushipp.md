@@ -1,5 +1,5 @@
 ---
-title: "IT Automation made easy - Markus Hipp (Scriptrunner)"
+title: "IT Automation made easy - Markus Hipp (ScriptRunner)"
 date: 2023-08-21T00:00:20+02:00
 draft: false
 ---
@@ -10,12 +10,12 @@ draft: false
 
 Weitere Informationen unter [https://www.scriptrunner.com/de/](https://www.scriptrunner.com/de/).
 
-Wir bedanken uns bei Scriptrunner für das Sponsoring des PSSAT. 
+Wir bedanken uns bei ScriptRunner für das Sponsoring des PSSAT. 
 
 ### about_Speaker
-{{< figure class="alignright" style="padding:20rem" src="/images/400x400markusgrimm2.jpg" alt="Markus Grimm (Scriptrunner)">}}
+{{< figure class="alignright" style="padding:20rem" src="/images/400x400markushipp.jpg" alt="Markus Hipp (ScriptRunner)">}}
 
-Markus Grimm 
+Markus Hipp 
 
 [https://www.linkedin.com/in/markushipp/](https://www.linkedin.com/in/markushipp/)
 
