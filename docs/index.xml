@@ -6,17 +6,7 @@
     <description>Recent content on Samstag, 16.09.2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:21 +0200</lastBuildDate><atom:link href="http://pssat.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Keynote - Thorsten Butz</title>
-      <link>http://pssat.de/session/thorstenbutz/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:21 +0200</pubDate>
-      
-      <guid>http://pssat.de/session/thorstenbutz/</guid>
-      <description>about_SessionLink to headingHerr Holmes und Dr. Watson - Wie KI unser AdminLeben verändert
-Können Sie sich an Ihre erste Google-Suche erinnern? Den ersten Wikipeda-Artikel, den Sie lasen? 2023 war für viele, ein solcher weiterer Moment. Künstliche Intelligenz erlaubt Fortschritte, Beschleunigungen in einer ganz neuen Qualität - oft missverstanden und immer heiß diskutiert. Überstetzungen sind von auf einmal nicht mehr furchteinflössend, das Pythonscript von ChatGPT tut, was man ihm sagt.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:20 +0200</lastBuildDate><atom:link href="http://pssat.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT Automation made easy - Markus Hipp (ScriptRunner)</title>
       <link>http://pssat.de/session/markushipp/</link>
@@ -89,6 +79,16 @@ https://sessionize.com/Hcritter/</description>
     </item>
     
     <item>
+      <title>Self-Service your IT with au2mator - Ahmed Uzejnović (au2mator)</title>
+      <link>http://pssat.de/session/ahmeduzejnovcau2mator/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:13 +0200</pubDate>
+      
+      <guid>http://pssat.de/session/ahmeduzejnovcau2mator/</guid>
+      <description>about_SponsorLink to headingau2mator provides a Self Service Portal to trigger Microsoft Automation and get the most out of PowerShell, Azure Automation, and System Center Orchestrator. Delegate your Automation Tasks, evolve your IT, and increase your Quality and Reliability.
+about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber warum eigentlich? Ich denke, das kommt von der Hilfsbereitschaft. Bisher habe ich niemanden getroffen, der automatisiert und wenig hilfreich ist.</description>
+    </item>
+    
+    <item>
       <title>Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse) - Andreas Nick &amp; Thorsten Butz</title>
       <link>http://pssat.de/session/andreasnickthorstenbutz/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:12 +0200</pubDate>
@@ -103,8 +103,9 @@ https://sessionize.com/Hcritter/</description>
       <pubDate>Mon, 21 Aug 2023 00:00:10 +0200</pubDate>
       
       <guid>http://pssat.de/session/raimundandree/</guid>
-      <description>about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell und ist seit geraumer Zeit sehr aktiv in der Open-Source-Gemeinschaft. Seine wichtigsten Community-Projekte sind AutomatedLab und NTFSSecurity, die auf GitHub zu finden sind. Seit 2015 engagiert er sich stark für die &amp;ldquo;Desired State Configuraton&amp;rdquo; (DSC) und versucht, Organisationen und Menschen zu motivieren, jenes Modell zu übernehmen, das Steven Murawski und Michael Greene im Whitepaper &amp;ldquo;Microsoft&amp;rsquo;s Release Pipeline Model&amp;rdquo; eingeführt haben.</description>
+      <description>about_SessionLink to headingTeil 1: DSC: Die Grundlagen im (Rück)Blick
+Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&amp;ldquo;composite ressources&amp;rdquo;).
+Teil 2: &amp;ldquo;The DSC project blueprint&amp;rdquo; oder: wie startet man ein DSC Projekt auf die richtige Weise</description>
     </item>
     
     <item>
@@ -124,7 +125,8 @@ Websites oder Web APIs mit PowerShell veröffentlichen klingt absurd? Dank Pode 
       
       <guid>http://pssat.de/session/friedrichweinmann/</guid>
       <description>about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headinghttps://twitter.com/FredWeinmann
+about_SpeakerLink to headingFriedrich &amp;ldquo;Fred&amp;rdquo; Weinmann ist Premier Field Engineer bei Microsoft mit einer Leidenschaft dafür, so viel wie möglich von seiner Arbeit zu automatisieren. In seiner sogenannten Freizeit pflegt und erweitert er Open-Source-Projekte, leitet eine UserGroup, spricht bei anderen UserGroups und Konferenzen und mixt Cocktails.
+https://twitter.com/FredWeinmann
 https://www.linkedin.com/in/friedrich-weinmann-1986ab102/</description>
     </item>
     
@@ -134,8 +136,8 @@ https://www.linkedin.com/in/friedrich-weinmann-1986ab102/</description>
       <pubDate>Mon, 21 Aug 2023 00:00:07 +0200</pubDate>
       
       <guid>http://pssat.de/session/martingudel/</guid>
-      <description>about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headinghttps://www.linkedin.com/in/themigrationwizard/</description>
+      <description>about_SessionLink to headingIn dieser Session gehen wir auf die Nutzung von OpenAI in Azure für die Endpoints für &amp;ldquo;completions&amp;rdquo; und &amp;ldquo;chat&amp;rdquo;, und gehen auf diverse Konzepte, wie Tokens, Datenregionen und die Bildgenerierung ein. Den genaue Text/Schwerpunkt des Vortrags richtet sich nach an der aktuellen Entwicklung. Für viele scheint das Thema &amp;ldquo;completions&amp;rdquo; (OpenAI schreibt das Dokument/den Artikel) zurzeit das attraktivste Feature zu sein.
+about_SpeakerLink to headingMartin Gudel ist Microsoft Certified Trainer und arbeitet als Microsoft Cloud Platform Consultant bei Kramer &amp;amp; Crew in Hamburg.</description>
     </item>
     
     <item>
@@ -164,7 +166,7 @@ PowerShell Usergroup HannoverFreundallee 13a30173 Hannoverinfo@psugh.de Hinwe
       <pubDate>Tue, 11 Jul 2023 15:00:25 +0200</pubDate>
       
       <guid>http://pssat.de/veranstaltung/</guid>
-      <description>Kostenfreie AnmeldungLink to headingWir bitten um kostenfreie Anmeldung auf Meetup:
+      <description>Kostenfreie AnmeldungLink to headingWir bitten um kostenfreie Anmeldung auf Meetup oder per Email:
 https://www.meetup.com/psugh-hannover/events/291224383/
 In den Kalender eintragen: ICS-Datei
 Powershell, Getränke, GrillenLink to headingDer PowerShell Saturday ist die jährliche Veranstaltung der PowerShell Usergroup Hannover, bei der das gemeinsame Wiedersehen und Kennenlernen den Rahmen bildet. Neben hochklassigen Vorträgen (in deutscher Sprache) steht das Miteinander im Vordergrund. Die Veranstaltung ist kostenfrei. Wir freuen uns über Eure Anregungen, Verbesserungsvorschläge und Mithilfe.</description>

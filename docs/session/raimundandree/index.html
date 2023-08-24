@@ -13,18 +13,21 @@
 
 
 <meta name="author" content="PowerShell Saturday Hannover">
-<meta name="description" content="about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell und ist seit geraumer Zeit sehr aktiv in der Open-Source-Gemeinschaft. Seine wichtigsten Community-Projekte sind AutomatedLab und NTFSSecurity, die auf GitHub zu finden sind. Seit 2015 engagiert er sich stark für die &ldquo;Desired State Configuraton&rdquo; (DSC) und versucht, Organisationen und Menschen zu motivieren, jenes Modell zu übernehmen, das Steven Murawski und Michael Greene im Whitepaper &ldquo;Microsoft&rsquo;s Release Pipeline Model&rdquo; eingeführt haben.">
+<meta name="description" content="about_SessionLink to headingTeil 1: DSC: Die Grundlagen im (Rück)Blick
+Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&ldquo;composite ressources&rdquo;).
+Teil 2: &ldquo;The DSC project blueprint&rdquo; oder: wie startet man ein DSC Projekt auf die richtige Weise">
 <meta name="keywords" content="powershell, Hannover">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Desired State Configuration - Raimund Andree"/>
-<meta name="twitter:description" content="about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell und ist seit geraumer Zeit sehr aktiv in der Open-Source-Gemeinschaft. Seine wichtigsten Community-Projekte sind AutomatedLab und NTFSSecurity, die auf GitHub zu finden sind. Seit 2015 engagiert er sich stark für die &ldquo;Desired State Configuraton&rdquo; (DSC) und versucht, Organisationen und Menschen zu motivieren, jenes Modell zu übernehmen, das Steven Murawski und Michael Greene im Whitepaper &ldquo;Microsoft&rsquo;s Release Pipeline Model&rdquo; eingeführt haben."/>
+<meta name="twitter:description" content="about_SessionLink to headingTeil 1: DSC: Die Grundlagen im (Rück)Blick
+Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&ldquo;composite ressources&rdquo;).
+Teil 2: &ldquo;The DSC project blueprint&rdquo; oder: wie startet man ein DSC Projekt auf die richtige Weise"/>
 
 <meta property="og:title" content="Desired State Configuration - Raimund Andree" />
-<meta property="og:description" content="about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell und ist seit geraumer Zeit sehr aktiv in der Open-Source-Gemeinschaft. Seine wichtigsten Community-Projekte sind AutomatedLab und NTFSSecurity, die auf GitHub zu finden sind. Seit 2015 engagiert er sich stark für die &ldquo;Desired State Configuraton&rdquo; (DSC) und versucht, Organisationen und Menschen zu motivieren, jenes Modell zu übernehmen, das Steven Murawski und Michael Greene im Whitepaper &ldquo;Microsoft&rsquo;s Release Pipeline Model&rdquo; eingeführt haben." />
+<meta property="og:description" content="about_SessionLink to headingTeil 1: DSC: Die Grundlagen im (Rück)Blick
+Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&ldquo;composite ressources&rdquo;).
+Teil 2: &ldquo;The DSC project blueprint&rdquo; oder: wie startet man ein DSC Projekt auf die richtige Weise" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://pssat.de/session/raimundandree/" /><meta property="article:section" content="session" />
 <meta property="article:published_time" content="2023-08-21T00:00:10+02:00" />
@@ -154,7 +157,10 @@ about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell 
     <span class="sr-only">Link to heading</span>
   </a>
 </h3>
-<p>(In Kürze)</p>
+<p><strong>Teil 1: DSC: Die Grundlagen im (Rück)Blick</strong><br>
+Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&ldquo;composite ressources&rdquo;).</p>
+<p><strong>Teil 2:  &ldquo;The DSC project blueprint&rdquo;  oder: wie startet man ein DSC Projekt auf die richtige Weise</strong><br>
+Das Whitepaper &ldquo;Release Pipeline Model&rdquo; (<a href="aka.ms/trpm" >aka.ms/trpm</a>) von Microsoft beschreibt einen innovatine Ansatz, wie IT-Systeme heutzutage verwaltet werden sollten. DSC ist nur ein Werkzeug in einer langen Kette, um  Infrastruktur als Code in einer &ldquo;CI/CD Release Pipeline&rdquo; zu verwalten. Der Vortrag präsentiert einen &ldquo;Proof of Concept&rdquo;-Ansatz, der die Erkenntnisse von 3 harten Jahren zusammenfasst.</p>
 <h3 id="about_speaker">
   about_Speaker
   <a class="heading-link" href="#about_speaker">
@@ -168,6 +174,7 @@ about_SpeakerLink to headingRaimund ist ein Veteran im Bereich der PowerShell 
 
 <p>Raimund ist ein Veteran im Bereich der PowerShell und ist seit geraumer Zeit sehr aktiv in der Open-Source-Gemeinschaft. Seine wichtigsten Community-Projekte sind AutomatedLab und NTFSSecurity, die auf GitHub zu finden sind. Seit 2015 engagiert er sich stark für die &ldquo;Desired State Configuraton&rdquo; (DSC) und versucht, Organisationen und Menschen zu motivieren, jenes Modell zu übernehmen, das Steven Murawski und Michael Greene im Whitepaper &ldquo;Microsoft&rsquo;s Release Pipeline Model&rdquo; eingeführt haben. Da der Einstieg in DSC recht schmerzhaft sein kann und eine erhebliche Lernkurve mit sich bringt, hat Raimund gemeinsam mit der Community ein Repository (ebenfalls auf Github zu finden) für eine standardisierte DSC-Projektvorlage erstellt:<br>
 <a href="https://aka.ms/dscworkshop"  class="external-link" target="_blank" rel="noopener">https://aka.ms/dscworkshop</a>.</p>
+<p><a href="https://twitter.com/raimundandree"  class="external-link" target="_blank" rel="noopener">https://twitter.com/raimundandree</a></p>
 <p><a href="https://www.linkedin.com/in/raimund-andree-69a78871/"  class="external-link" target="_blank" rel="noopener">https://www.linkedin.com/in/raimund-andree-69a78871/</a></p>
 <p><a href="https://sessionize.com/raimund-andree"  class="external-link" target="_blank" rel="noopener">https://sessionize.com/raimund-andree</a></p>
 
