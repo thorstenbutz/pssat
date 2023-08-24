@@ -11,6 +11,9 @@ Die Session vermittelt Methodiken für eine effiziente Modulentwicklung, um auch
 
 ### about_Speaker
 
+Andreas ist mit mehr als 20 Jahren IT Erfahrung im Bereich IT-Infrastruktur vollgepackt und hat somit schon Einiges gesehen.
+Die PowerShell ist für ihn seit der frühen Version 2.0 eine runde Sache. Schwerpunktmäßig ist er aktiv im Bereich Identity & Security, hat aber in der Vergangenheit auch umfangreiche Abstecher in Collaboration, wie auch Computing gemacht.
+
 {{< figure class="alignright" style="padding:20rem" src="/images/400x400andreasbellstedt.jpg" alt="Andreas Bellstedt">}}
 
 [https://www.linkedin.com/in/andreas-bellstedt-1862768/](https://www.linkedin.com/in/andreas-bellstedt-1862768/)
