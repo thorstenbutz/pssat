@@ -27,14 +27,13 @@ Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor 
 
 | Zeitplan                  | Track 1  | Track 2  |
 | ------------------------- | -------- | -------- |
-| ab 9 Uhr: Einlass, Kaffee |          |          |
-| 10:00 - 10:45             | Vortrag  | Vortrag  |
-| 11:00 - 11:45             | Vortrag  | Vortrag  |
-| 12:00 - 12:45             | Vortrag  | Vortrag  |
+| ab 9 Uhr: Einlass, Kaffee |                                                  |          |
+| 10:00 - 10:45             | IT-Automation made easy | Powershell Einführung                  |
+| 11:00 - 11:45             | Deep dive in eine komfortable Implementierung der MS Graph API   | Powershell Einführung  |
+| 12:00 - 12:45             | Batch-Fire gegen die Microsoft Graph API mit PowerShell          | Powershell Klassen - Warum man sie benutzen solle!   |
 | Mittagspause              |          |          |
-| 13:45 - 14:15             | Vortrag  | Vortrag  |
-| 14:30 - 15:15             | Vortrag  | Vortrag  |
-| 15:30 - 16:15             | Vortrag  | Vortrag  |
-| 16:45 - 17:30             | Vortrag  | Vortrag  |
-| ab 17:30                  | Workshop | Workshop |
-|                           |          |          |
+| 13:45 - 14:15             | PowerShell Performance- und Technik-Kniffe                       | Vom Anwender zum Entwickler - Wie kann ich bei Open Source Projekten mitarbeiten? |
+| 14:30 - 15:15             | Self-Service your IT with au2mator                               | Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse)  |
+| 15:30 - 16:15             | DSC: Wiederholung der Grundlagen                                 | Pode und Pode Web  |
+| 16:45 - 17:30             | Vortrag                                                          | Wie man OpenAI on Azure (Preview) mit PowerShell verwendet  |
+| ab 17:30                  | Der DSC-Projektplan oder wie man ein DSC-Projekt richtig startet | Arbeiten mit Active Directory jenseits von Get-ADUser -Filter * |
