@@ -23,8 +23,6 @@ Netz-Weise, Freundallee 13a, 30173 Hannover
 
 ### Zeitplan
 
-Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor der Veranstaltung. 
-
 | Zeitplan                  | Track 1  | Track 2  |
 | ------------------------- | -------- | -------- |
 | ab 9 Uhr: Einlass, Kaffee |                                                                                                             |          |
@@ -35,5 +33,6 @@ Die genaue Agenda mit den einzelnen Vorträgen veröffentlichen wir zeitnah vor 
 | 13:45 - 14:15             | [PowerShell Performance- und Technik-Kniffe](https://pssat.de/session/chiristianritter/)                    | [Vom Anwender zum Entwickler - Wie kann ich bei Open Source Projekten mitarbeiten?](https://pssat.de/session/andreasjordan/) |
 | 14:30 - 15:15             | [Self-Service your IT with au2mator](https://pssat.de/session/ahmeduzejnovcau2mator/)                       | [Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständnisse)](https://pssat.de/session/andreasnickthorstenbutz/) |
 | 15:30 - 16:15             | [DSC: Wiederholung der Grundlagen](Desired State Configuration - Raimund Andree)                            | [Websites oder Web APIs mit PowerShell? Ja, mit Pode(.Web)!](https://pssat.de/session/robinbeismann/)  |
+| Kaffeepause               | |   |
 | 16:45 - 17:30             | [Azure AD & MSOnline Deprecations](https://pssat.de/session/friedrichweinmann/)                             | [Wie man OpenAI on Azure (Preview) mit PowerShell verwendet](https://pssat.de/session/martingudel/)  |
 | ab 17:30                  | [Der DSC-Projektplan oder wie man ein DSC-Projekt richtig startet]((Desired State Configuration - Raimund Andree)) | [Arbeiten mit Active Directory jenseits von Get-ADUser -Filter *](https://pssat.de/session/evgenijsmirnov/) |
