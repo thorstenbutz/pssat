@@ -16,3 +16,4 @@ title: Agenda
 | 16:45 - 17:30             | [Azure AD & MSOnline Deprecations](https://pssat.de/session/friedrichweinmann/)                             | [Wie man OpenAI on Azure (Preview) mit PowerShell verwendet](https://pssat.de/session/martingudel/)  |
 | ab 17:30                  | [Der DSC-Projektplan oder wie man ein DSC-Projekt richtig startet]((Desired State Configuration - Raimund Andree)) | [Arbeiten mit Active Directory jenseits von Get-ADUser -Filter *](https://pssat.de/session/evgenijsmirnov/) |
 
+# Die Vorträge
