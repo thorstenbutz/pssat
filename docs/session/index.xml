@@ -13,7 +13,7 @@
       <pubDate>Mon, 21 Aug 2023 00:00:20 +0200</pubDate>
       
       <guid>http://pssat.de/session/markushipp/</guid>
-      <description>about_SponsorLink to headingScriptRunner ist deine #1 für PowerShell Automation. Mit ScriptRunner erhältst du eine ganzheitliche, sichere und vollständig integrierbare Lösung, und bist innerhalb kürzester Zeit &amp;ldquo;ready to automate&amp;rdquo;. Routineaufgaben im Tagesgeschäft werden ab sofort effizienter und mit konstant hoher Qualität erledigt. Administrative Aufgaben lassen sich sicher an Anwender ohne PowerShell-Kenntnisse delegieren - deine Kollegen können somit Aufgaben anstoßen, ohne erweiterte Rechte im System zu haben.
+      <description>about_Sponsor Link to heading ScriptRunner ist deine #1 für PowerShell Automation. Mit ScriptRunner erhältst du eine ganzheitliche, sichere und vollständig integrierbare Lösung, und bist innerhalb kürzester Zeit &amp;ldquo;ready to automate&amp;rdquo;. Routineaufgaben im Tagesgeschäft werden ab sofort effizienter und mit konstant hoher Qualität erledigt. Administrative Aufgaben lassen sich sicher an Anwender ohne PowerShell-Kenntnisse delegieren - deine Kollegen können somit Aufgaben anstoßen, ohne erweiterte Rechte im System zu haben.
 Weitere Informationen unter https://www.</description>
     </item>
     
@@ -23,8 +23,8 @@ Weitere Informationen unter https://www.</description>
       <pubDate>Mon, 21 Aug 2023 00:00:19 +0200</pubDate>
       
       <guid>http://pssat.de/session/holgervoges2/</guid>
-      <description>about_SessionLink to headingDie traditionelle Einführung für zukünftige Powershell-Enthusiasten. In zwei Stunden werden Euch die wichtigsten Grundlagen der Powershell an praktischen Beispielen gezeigt. Ihr seid danach kein Profi, aber Ihr seid dann ganz sicher angefixt.
-about_SpeakerLink to headingHolger hat vor 10 Jahren die Powershell-Usergroup Hannover gegründet. Er ist Enthusiast der ersten Stunde und liebt es, sein Wissen an andere weiterzugeben. Außerdem ist er Inhaber der Firma Netz-Weise und Autor des Buches &amp;ldquo;Verwaltung von Windows 10 mit Gruppenrichtlinien und Intune&amp;rdquo;.</description>
+      <description>about_Session Link to heading Die traditionelle Einführung für zukünftige Powershell-Enthusiasten. In zwei Stunden werden Euch die wichtigsten Grundlagen der Powershell an praktischen Beispielen gezeigt. Ihr seid danach kein Profi, aber Ihr seid dann ganz sicher angefixt.
+about_Speaker Link to heading Holger hat vor 10 Jahren die Powershell-Usergroup Hannover gegründet. Er ist Enthusiast der ersten Stunde und liebt es, sein Wissen an andere weiterzugeben. Außerdem ist er Inhaber der Firma Netz-Weise und Autor des Buches &amp;ldquo;Verwaltung von Windows 10 mit Gruppenrichtlinien und Intune&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ about_SpeakerLink to headingHolger hat vor 10 Jahren die Powershell-Usergroup 
       <pubDate>Mon, 21 Aug 2023 00:00:18 +0200</pubDate>
       
       <guid>http://pssat.de/session/andibellstedt/</guid>
-      <description>about_SessionLink to headingEin technischer Ausflug in den Aufbau und die Funktionsweise des MSGraph PowerShell Moduls von Friedrich Weinmann und Andi Bellstedt. In dem Vortrag stellt Andi die Struktur, den konzeptionellen Aufbau und die Funktionsweise des Modules vor. Die Session vermittelt Methodiken für eine effiziente Modulentwicklung, um auch größere Module strukturiert und verwaltbar zu behalten. Weiterhin wird erklärt wie Funktionen/cmdlets effektiv und effizient erstellt werden. Unterstützung der Pipelinefunktionalität ist an dieser Stelle eine der Überlegungen, um ein Modul komfortabel in der Anwendung zu gestalten.</description>
+      <description>about_Session Link to heading Ein technischer Ausflug in den Aufbau und die Funktionsweise des MSGraph PowerShell Moduls von Friedrich Weinmann und Andi Bellstedt. In dem Vortrag stellt Andi die Struktur, den konzeptionellen Aufbau und die Funktionsweise des Modules vor. Die Session vermittelt Methodiken für eine effiziente Modulentwicklung, um auch größere Module strukturiert und verwaltbar zu behalten. Weiterhin wird erklärt wie Funktionen/cmdlets effektiv und effizient erstellt werden. Unterstützung der Pipelinefunktionalität ist an dieser Stelle eine der Überlegungen, um ein Modul komfortabel in der Anwendung zu gestalten.</description>
     </item>
     
     <item>
@@ -42,8 +42,8 @@ about_SpeakerLink to headingHolger hat vor 10 Jahren die Powershell-Usergroup 
       <pubDate>Mon, 21 Aug 2023 00:00:17 +0200</pubDate>
       
       <guid>http://pssat.de/session/ahmeduzejnovc/</guid>
-      <description>about_SessionLink to headingIn dieser Sitzung möchte ich demonstrieren, wie wir die Graph-API verwenden können, um HTTP-Anfragen so zu gruppieren, dass wir sie mit einem einzigen Aufruf an die API schicken. Wir sehen uns die Limits der Graph API an und testen, was passiert, wenn wir sie erreichen. Das Hauptaugenmerk liegt hier auf der Zeit- und damit Geldersparnis.
-about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber warum eigentlich?</description>
+      <description>about_Session Link to heading In dieser Sitzung möchte ich demonstrieren, wie wir die Graph-API verwenden können, um HTTP-Anfragen so zu gruppieren, dass wir sie mit einem einzigen Aufruf an die API schicken. Wir sehen uns die Limits der Graph API an und testen, was passiert, wenn wir sie erreichen. Das Hauptaugenmerk liegt hier auf der Zeit- und damit Geldersparnis.
+about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber warum eigentlich?</description>
     </item>
     
     <item>
@@ -52,8 +52,8 @@ about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Mon, 21 Aug 2023 00:00:16 +0200</pubDate>
       
       <guid>http://pssat.de/session/christophburmeister/</guid>
-      <description>about_SessionLink to headingKlassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben oft viel einfacher machen. Ich zeige Euch ein paar Beispiele und Hintergründe, warum Ihr Klassen nutzen solltet.
-about_SpeakerLink to headingChristoph ist Principal Solutions Architect bei Berlin Bytes. Er ist spezialisert auf Microsoft Azure, besonders die Bereiche Goverannce, IAM, Infrastruktur und Kubernetes. Er ist Microsoft MVP für Cloud and Datacenter Management und ist Mitgründer und Organisator der Hamburg PowerShell User Group.</description>
+      <description>about_Session Link to heading Klassen in PowerShell werden gerne übersehen, allerdings könne diese das Leben oft viel einfacher machen. Ich zeige Euch ein paar Beispiele und Hintergründe, warum Ihr Klassen nutzen solltet.
+about_Speaker Link to heading Christoph ist Principal Solutions Architect bei Berlin Bytes. Er ist spezialisert auf Microsoft Azure, besonders die Bereiche Goverannce, IAM, Infrastruktur und Kubernetes. Er ist Microsoft MVP für Cloud and Datacenter Management und ist Mitgründer und Organisator der Hamburg PowerShell User Group.</description>
     </item>
     
     <item>
@@ -62,8 +62,8 @@ about_SpeakerLink to headingChristoph ist Principal Solutions Architect bei Be
       <pubDate>Mon, 21 Aug 2023 00:00:15 +0200</pubDate>
       
       <guid>http://pssat.de/session/chiristianritter/</guid>
-      <description>about_SessionLink to headingDiese Session zeigt Leistungsoptimierungen, Tipps und Tricks um das volle Potential der PowerShell auszuschöpfen.
-about_SpeakerLink to headingPowerShell lover, Automation fan, Blog-Autor, Nerdy by nature. Gründer der PSUGFFM.
+      <description>about_Session Link to heading Diese Session zeigt Leistungsoptimierungen, Tipps und Tricks um das volle Potential der PowerShell auszuschöpfen.
+about_Speaker Link to heading PowerShell lover, Automation fan, Blog-Autor, Nerdy by nature. Gründer der PSUGFFM.
 https://twitter.com/blackboxcoder
 https://sessionize.com/Hcritter/</description>
     </item>
@@ -74,7 +74,7 @@ https://sessionize.com/Hcritter/</description>
       <pubDate>Mon, 21 Aug 2023 00:00:14 +0200</pubDate>
       
       <guid>http://pssat.de/session/andreasjordan/</guid>
-      <description>about_SessionLink to headingVor über drei Jahren bin ich diesen Schritt selbst gegangen: Ich habe das PowerShell Modul dbatools nicht nur genutzt, sondern begonnen, es aktiv mitzugestalten. Ganz vorsichtig habe ich Auffälligkeiten analysiert, einen ersten Fehler eingestellt und dann auch selbst die Lösung dazu entwickelt und bereitgestellt. Mit diesem Vortrag möchte ich meine Erfahrungen weitergeben und auch andere Nutzer von anderen Powershell Modulen ermutigen, aktiv an Open Source Projekten mitzuwirken.</description>
+      <description>about_Session Link to heading Vor über drei Jahren bin ich diesen Schritt selbst gegangen: Ich habe das PowerShell Modul dbatools nicht nur genutzt, sondern begonnen, es aktiv mitzugestalten. Ganz vorsichtig habe ich Auffälligkeiten analysiert, einen ersten Fehler eingestellt und dann auch selbst die Lösung dazu entwickelt und bereitgestellt. Mit diesem Vortrag möchte ich meine Erfahrungen weitergeben und auch andere Nutzer von anderen Powershell Modulen ermutigen, aktiv an Open Source Projekten mitzuwirken.</description>
     </item>
     
     <item>
@@ -83,8 +83,8 @@ https://sessionize.com/Hcritter/</description>
       <pubDate>Mon, 21 Aug 2023 00:00:13 +0200</pubDate>
       
       <guid>http://pssat.de/session/ahmeduzejnovcau2mator/</guid>
-      <description>about_SponsorLink to headingau2mator provides a Self Service Portal to trigger Microsoft Automation and get the most out of PowerShell, Azure Automation, and System Center Orchestrator. Delegate your Automation Tasks, evolve your IT, and increase your Quality and Reliability.
-about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber warum eigentlich? Ich denke, das kommt von der Hilfsbereitschaft. Bisher habe ich niemanden getroffen, der automatisiert und wenig hilfreich ist.</description>
+      <description>about_Sponsor Link to heading au2mator provides a Self Service Portal to trigger Microsoft Automation and get the most out of PowerShell, Azure Automation, and System Center Orchestrator. Delegate your Automation Tasks, evolve your IT, and increase your Quality and Reliability.
+about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber warum eigentlich? Ich denke, das kommt von der Hilfsbereitschaft. Bisher habe ich niemanden getroffen, der automatisiert und wenig hilfreich ist.</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Mon, 21 Aug 2023 00:00:12 +0200</pubDate>
       
       <guid>http://pssat.de/session/andreasnickthorstenbutz/</guid>
-      <description>about_SessionLink to headingMit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &amp;ldquo;modern apps&amp;rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.</description>
+      <description>about_Session Link to heading Mit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &amp;ldquo;modern apps&amp;rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.</description>
     </item>
     
     <item>
@@ -102,7 +102,7 @@ about_SpeakerLink to headingMeine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Mon, 21 Aug 2023 00:00:10 +0200</pubDate>
       
       <guid>http://pssat.de/session/raimundandree/</guid>
-      <description>about_SessionLink to headingTeil 1: DSC: Die Grundlagen im (Rück)Blick
+      <description>about_Session Link to heading Teil 1: DSC: Die Grundlagen im (Rück)Blick
 Im ersten Teil werfen wir einen Blick auf die die DSC-Terminologie, die zentralen Prinzipien und typischen Scriptcode: DSC-Konfigurationen, Konfigurationsdaten, MOF- und Meta.MOF-Dateien, was Windows mit MOF-Dateien macht, der DSC Pull Server on-prem und auf Azure, DSC-Ressourcen sowie zusammengesetzte Ressourcen (&amp;ldquo;composite ressources&amp;rdquo;).
 Teil 2: &amp;ldquo;The DSC project blueprint&amp;rdquo; oder: wie startet man ein DSC Projekt auf die richtige Weise</description>
     </item>
@@ -113,30 +113,19 @@ Teil 2: &amp;ldquo;The DSC project blueprint&amp;rdquo; oder: wie startet man ei
       <pubDate>Mon, 21 Aug 2023 00:00:09 +0200</pubDate>
       
       <guid>http://pssat.de/session/robinbeismann/</guid>
-      <description>about_SessionLink to headingEine Funktion oder ein vorhandenes Script ausführbar machen? WPF/Windows Forms Applikationen waren früher, heute bestehen 90% der gängigen Desktop Applikationen im Backend aus Web Apps die über Frameworks wie Electron als Executables bereitgestellt werden.
+      <description>about_Session Link to heading Eine Funktion oder ein vorhandenes Script ausführbar machen? WPF/Windows Forms Applikationen waren früher, heute bestehen 90% der gängigen Desktop Applikationen im Backend aus Web Apps die über Frameworks wie Electron als Executables bereitgestellt werden.
 Websites oder Web APIs mit PowerShell veröffentlichen klingt absurd? Dank Pode nicht mehr. Pode stellt einen PowerShell basierten, vollwertigen Webserver bereit. Für die, die sich nicht mit HTML und Javascript auseinandersetzen möchten, gibt es obendrauf noch Pode.</description>
     </item>
     
     <item>
-      <title>(tba) - Friedrich Weinmann</title>
+      <title>Azure AD &amp; MSOnline Deprecations - Friedrich Weinmann</title>
       <link>http://pssat.de/session/friedrichweinmann/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:08 +0200</pubDate>
       
       <guid>http://pssat.de/session/friedrichweinmann/</guid>
-      <description>about_SessionLink to heading(In Kürze)
-about_SpeakerLink to headingFriedrich &amp;ldquo;Fred&amp;rdquo; Weinmann ist Premier Field Engineer bei Microsoft mit einer Leidenschaft dafür, so viel wie möglich von seiner Arbeit zu automatisieren. In seiner sogenannten Freizeit pflegt und erweitert er Open-Source-Projekte, leitet eine UserGroup, spricht bei anderen UserGroups und Konferenzen und mixt Cocktails.
+      <description>about_Speaker Link to heading Friedrich &amp;ldquo;Fred&amp;rdquo; Weinmann ist Premier Field Engineer bei Microsoft mit einer Leidenschaft dafür, so viel wie möglich von seiner Arbeit zu automatisieren. In seiner sogenannten Freizeit pflegt und erweitert er Open-Source-Projekte, leitet eine UserGroup, spricht bei anderen UserGroups und Konferenzen und mixt Cocktails.
 https://twitter.com/FredWeinmann
 https://www.linkedin.com/in/friedrich-weinmann-1986ab102/</description>
-    </item>
-    
-    <item>
-      <title>Wie man &#34;OpenAI on Azure&#34; (Preview) mit der PowerShell nutzen kann - Martin Gudel</title>
-      <link>http://pssat.de/session/martingudel/</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:07 +0200</pubDate>
-      
-      <guid>http://pssat.de/session/martingudel/</guid>
-      <description>about_SessionLink to headingIn dieser Session gehen wir auf die Nutzung von OpenAI in Azure für die Endpoints für &amp;ldquo;completions&amp;rdquo; und &amp;ldquo;chat&amp;rdquo;, und gehen auf diverse Konzepte, wie Tokens, Datenregionen und die Bildgenerierung ein. Den genaue Text/Schwerpunkt des Vortrags richtet sich nach an der aktuellen Entwicklung. Für viele scheint das Thema &amp;ldquo;completions&amp;rdquo; (OpenAI schreibt das Dokument/den Artikel) zurzeit das attraktivste Feature zu sein.
-about_SpeakerLink to headingMartin Gudel ist Microsoft Certified Trainer und arbeitet als Microsoft Cloud Platform Consultant bei Kramer &amp;amp; Crew in Hamburg.</description>
     </item>
     
     <item>
@@ -145,8 +134,8 @@ about_SpeakerLink to headingMartin Gudel ist Microsoft Certified Trainer und a
       <pubDate>Mon, 21 Aug 2023 00:00:06 +0200</pubDate>
       
       <guid>http://pssat.de/session/evgenijsmirnov/</guid>
-      <description>about_SessionLink to headingIn diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen.
-about_SpeakerLink to headingEvgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien.</description>
+      <description>about_Session Link to heading In diesem Workshop beschäftigen wir uns mit den Möglichkeiten, Active Directory mit Hilfe nativer Mittel zu befragen und zu manipulieren. Das Beherrschen dieser Techniken macht eure Skripte, die „irgendwas mit AD“ machen, sowohl portabler als auch schneller. Wir befassen uns auch mit Authentifizierung, LDAP und anderen angrenzenden Themen.
+about_Speaker Link to heading Evgenij ist ein IT-Industrie-Veteran mit mehr als 25 Jahren Erfahrung im Gepäck. Seine Expertise liegt primär in den Microsoft- und VMware-Technologien.</description>
     </item>
     
   </channel>
