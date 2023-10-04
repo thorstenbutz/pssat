@@ -5,20 +5,21 @@ draft: false
 comments: false
 ---
 
+<!--
 ### Kostenfreie Anmeldung
 
 Wir bitten um kostenfreie Anmeldung auf **Meetup** oder per [Email](mailto:info.psugh.de):  
 [https://www.meetup.com/psugh-hannover/events/291224383/](https://www.meetup.com/psugh-hannover/events/291224383/)
 
 In den Kalender eintragen: [ICS-Datei](/veranstaltung/pssat2023.ics)
-
+-->
 ### Powershell, Getränke, Grillen
 
 Der PowerShell Saturday ist die jährliche Veranstaltung der PowerShell Usergroup Hannover, bei der das gemeinsame Wiedersehen und Kennenlernen den Rahmen bildet. Neben hochklassigen Vorträgen (in deutscher Sprache) steht das Miteinander im Vordergrund. Die Veranstaltung ist **kostenfrei**. Wir freuen uns über Eure Anregungen, Verbesserungsvorschläge und Mithilfe.
 
 ### Veranstaltungsort
 
-Die Veranstaltung findet in den Räumen der [Netz-Weise](https://www.netz-weise-it.training/impressum.html) statt, die viele aus den monatlichen Treffen der [PowerShell User Group Hannover (PSUGH.de)](http://psugh.de) kennen:  
+Die Veranstaltung fand in den Räumen der [Netz-Weise](https://www.netz-weise-it.training/impressum.html) statt, die viele aus den monatlichen Treffen der [PowerShell User Group Hannover (PSUGH.de)](http://psugh.de) kennen:  
 Netz-Weise, Freundallee 13a, 30173 Hannover
 
 ### Zeitplan

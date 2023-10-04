@@ -3,7 +3,14 @@ title: "Eine Paketverwaltung für Windows (Eine Geschichte voller Missverständn
 date: 2023-08-21T00:00:12+02:00
 draft: false
 ---
+### about_Recording
+Video, Transcript, Folien und Codebeispiele sind online:
+- [Aufzeichnung auf Vimeo](https://vimeo.com/thorstenbutz/pssat2023)
 
+- [Der PSSat 2023 auf Github](https://github.com/PSUGH/PowerShell/tree/master/PSSaturday%202023)
+
+- [Die Dateien zum Vortrag (Github)](https://github.com/thorstenbutz/conferences/tree/master/2023.PSSaturday)
+  
 ### about_Session
 
 Mit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte "modern apps" tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.

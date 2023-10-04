@@ -102,7 +102,11 @@ about_Speaker Link to heading Meine Leidenschaft ist die Automatisierung. Aber w
       <pubDate>Mon, 21 Aug 2023 00:00:12 +0200</pubDate>
       
       <guid>http://pssat.de/session/andreasnickthorstenbutz/</guid>
-      <description>about_Session Link to heading Mit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &amp;ldquo;modern apps&amp;rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.</description>
+      <description>about_Recording Link to heading Video, Transcript, Folien und Codebeispiele sind online:
+Aufzeichnung auf Vimeo
+Der PSSat 2023 auf Github
+Die Dateien zum Vortrag (Github)
+about_Session Link to heading Mit der AppInstaller CLI (aka WinGet) hat Microsoft die Tor zu einer Paketverwaltung für Windows aufgestoßen. Schon der eigentümliche Name scheint ein Signal zu sein, wie schwer sich Microsoft tut, seine Plattform für eine zeitgerechte Form der Softwareverwaltung neu aufzustellen. Und über der Frage des Paketmanagements schwebt die noch grundsätzlichere Frage des Paketformats: MSIX und artverwandte &amp;ldquo;modern apps&amp;rdquo; tun sich schwer, die angestaubten Klassiker wie MSI vom Thron zu stoßen.</description>
     </item>
     
     <item>
@@ -163,10 +167,8 @@ PowerShell Usergroup Hannover Freundallee 13a 30173 Hannover info@psugh.de Hinwe
       <pubDate>Tue, 11 Jul 2023 15:00:25 +0200</pubDate>
       
       <guid>http://pssat.de/veranstaltung/</guid>
-      <description>Kostenfreie Anmeldung Link to heading Wir bitten um kostenfreie Anmeldung auf Meetup oder per Email:
-https://www.meetup.com/psugh-hannover/events/291224383/
-In den Kalender eintragen: ICS-Datei
-Powershell, Getränke, Grillen Link to heading Der PowerShell Saturday ist die jährliche Veranstaltung der PowerShell Usergroup Hannover, bei der das gemeinsame Wiedersehen und Kennenlernen den Rahmen bildet. Neben hochklassigen Vorträgen (in deutscher Sprache) steht das Miteinander im Vordergrund. Die Veranstaltung ist kostenfrei. Wir freuen uns über Eure Anregungen, Verbesserungsvorschläge und Mithilfe.</description>
+      <description>Powershell, Getränke, Grillen Link to heading Der PowerShell Saturday ist die jährliche Veranstaltung der PowerShell Usergroup Hannover, bei der das gemeinsame Wiedersehen und Kennenlernen den Rahmen bildet. Neben hochklassigen Vorträgen (in deutscher Sprache) steht das Miteinander im Vordergrund. Die Veranstaltung ist kostenfrei. Wir freuen uns über Eure Anregungen, Verbesserungsvorschläge und Mithilfe.
+Veranstaltungsort Link to heading Die Veranstaltung fand in den Räumen der Netz-Weise statt, die viele aus den monatlichen Treffen der PowerShell User Group Hannover (PSUGH.</description>
     </item>
     
     <item>
